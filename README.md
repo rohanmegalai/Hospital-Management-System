@@ -1,9 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
-
+# Reg No:212223040171
+# Name:ROHAN J
+# Date:10.05.2025
 
 # AIM:
 To develop the Hospital Management System using Star UML.
@@ -40,6 +39,7 @@ Specifying the context and requirements of a system
 
 
 
+![378048169-e884424e-59f1-4f5d-a107-4f4ffd60511d](https://github.com/user-attachments/assets/79b1a904-ae80-4c02-a656-b17198245f2e)
 
 
 
@@ -58,32 +58,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-
-
-# COMMUNICTION DIAGRAM:
-
-A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
-
-Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
-
-
-
-
-# PACKAGE DIAGRAM:
-
-Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
-
-organization of the layered architecture within any UML classifier, such as a software system.
-
-A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
-
-
-
-
-
-
-
-
+![378048218-c966c7c8-e267-4ea8-a8f5-474ea50051a5](https://github.com/user-attachments/assets/eeabf5ad-f859-4e81-800d-decd52e7d67a)
 # ACTIVITY DIAGRAM:
 
 The Unified Modeling Language includes several subsets of diagrams, including structure diagrams, interaction diagrants, and behavior diagrams. Activity diagrams, along with use case and state machine diagrams, are considered behavior diagrams because they describe what must happen in the system being modeled.
@@ -97,6 +72,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+![378048184-ebae6d4b-761b-4f1a-aaf3-49b329402259](https://github.com/user-attachments/assets/954f5cb8-700b-4fa0-baed-2bd137558eea)
 
 
 
@@ -117,6 +93,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+![378048204-2ad54406-25d7-4af1-af3a-3e466597e27b](https://github.com/user-attachments/assets/08146722-f1aa-4c51-8746-076e0a5bd3b3)
 
 
 
